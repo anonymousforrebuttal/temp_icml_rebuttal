@@ -1,1 +1,1 @@
-# temp_icml_rebuttal
+![resnet18 on tinyimagenet](tinyimagenet_resnet18.png)
